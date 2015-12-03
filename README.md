@@ -1,10 +1,7 @@
 # SublimeText3_Windows
 ###windows底下的sublime text安装包，包含了一些插件
--------
 
-```
-
-> * ConvertToUTF8
+> *  ConvertToUTF8
   将编码转换成UTF8
 > * Emmet
   HTML和CSS的神级插件
@@ -26,4 +23,3 @@
   快速创建文件
 > * ...
 
-```
